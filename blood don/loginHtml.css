@@ -1,0 +1,87 @@
+@import url("https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css");
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background:url(login_page_back.jpg) no-repeat ;
+    /* background-position: center; */
+
+    background-size: cover;
+
+}
+.loginbox{
+    width: 280px;
+    position: absolute;
+    top: 28%;
+    left: 39%;
+    transform: translate();
+    color: aliceblue;
+}
+
+.loginbox h1{
+    /* float: left; */
+    font-size: 40px;
+    border-bottom: 7px solid #b22121;
+    margin-bottom: 38px;
+padding: 1px;
+}
+
+
+.Register{
+    background: none;
+    color: white;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    border: 2px solid #b22121;
+    width: 100%;
+    margin: 12px 0;
+}
+
+.textbox{
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid #b22121;
+    font-size: 20px;
+    overflow: hidden;
+    width: 100%
+    
+}
+
+.loginbox h1{
+    float: left;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0 ;
+    border-bottom: 1px solid #b22121;
+}
+
+.textbox i{
+    width: 26px;
+    float: left;
+    text-align: center;
+}
+
+.textbox input{
+border: none;
+outline: none;
+background: none;
+color: white;
+font-size: 18px;
+float: left;
+margin: 0 10px;
+
+}
+
+.loginbutton{
+    background: none;
+    color: white;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    border: 2px solid #b22121;
+    width: 100%;
+    margin: 12px 0;
+
+
+}

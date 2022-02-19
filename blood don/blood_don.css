@@ -1,0 +1,296 @@
+.height {position: relative;
+  left: 22px;
+  right: 20px;
+  top:-30px ;
+
+
+  padding: 7px;
+
+  padding-left: 483px;
+  font-size: 70px;
+
+}
+
+#para {
+  color: red;
+  font-family: 'Fruktur', cursive;
+font-family: 'Gentium Book Basic', serif;
+font-family: 'Great Vibes', cursive;
+font-family: 'Kaushan Script', cursive;
+
+position: relative;
+left: 561px;
+right:20px ;
+top: -73px;
+font-size: 30px;
+  /* padding: 18px;
+  padding-left: 620px;
+  
+  padding-top: 33px;
+  margin: -82px; */
+}
+
+/* 
+.drop{
+  display: flex;
+  list-style: none;
+} */
+
+
+.container{
+  background-image: url('blood_donation.jpg'); 
+  background-repeat: no-repeat;
+  /* background-position: center center; */
+  /* background-position-x: 25px; */
+   /* min-height: 100vh;  */
+  /* border: 2px solid black; */
+  /* background-position: right; */
+  height: 715px;
+  width: 2074px;
+
+  background-position: center;
+}
+
+/* p {
+  background-color: rgb(235, 19, 19);
+  height: 100px;
+  width: 600px;
+  } */
+/*   
+  #para{
+    /* background-color: rgb(194, 182, 182); */
+    /* background-image:url('blood_donation.jpg'); */
+    /* background-size: auto;
+  color: red;   
+  } */ */
+
+ .left{
+   display: flex;
+   flex-direction: column;
+   left: 0px;
+ }   
+ 
+ .right{
+  display: flex;
+  flex-direction: column;
+  right: 0px;
+} 
+ 
+
+
+
+
+
+
+
+/* This is for DONATE page */
+#searchblood{color: black;
+ 
+  background-color: rgb(236, 19, 19);
+
+  border:3px solid black;
+  /* border-color: black; */
+  border-radius: 23px;
+  text-decoration: none;
+padding: 20px;
+cursor: pointer;
+opacity: 89%;
+font-size: 80px;
+position: absolute;
+ left: 9%;
+top:50%
+
+
+}
+
+#searchblood:hover{
+  color: black;
+background-color:rgba(255, 0, 0, 0.801);
+
+}
+
+#donate{
+  color: black;
+ 
+  background-color: rgb(236, 19, 19);
+
+  border:3px solid black;
+  /* border-color: black; */
+  border-radius: 23px;
+  text-decoration: none;
+padding: 20px;
+cursor: pointer;
+opacity: 89%;
+font-size: 80px;
+position: absolute;
+ left: 9%;
+top:29%
+
+
+}
+#donate:hover
+{
+  color: black;
+background-color:rgba(255, 0, 0, 0.801);
+
+}
+
+
+
+
+.contact{
+font-family: cursive;
+
+ background-color: rgb(236, 19, 19);
+  border:3px solid black;
+  
+  border-radius: 23px;
+  text-decoration: none;
+  padding: 10px;
+  cursor: pointer;
+  /* opacity: 89%; */
+  font-size: 80px;
+  position: absolute;
+ left: 8%;
+  top:55%
+}
+
+
+.contact:hover
+{
+  /* color: black; */
+background-color:rgba(255, 0, 0, 0.801);
+}
+
+
+
+
+/* This is for TUSHAR_BLOOD_DON page */
+
+.image
+
+   {
+        /* float: right; */
+        /* position: absolute
+        left: 20px;
+        right: 20px;
+        top:20px ; */
+        height: 582px;
+        width: 854px;
+        display: inline;
+        margin-left: 719px;
+         margin-right: 20px;
+
+        margin-bottom:20px;
+  }
+
+.state {
+  border-style: solid;
+
+  display: flex;
+  position: relative;
+  top: 90px;
+
+  border-radius: 20px;
+  top:-479px;
+  width: 615px;
+  height: 81px;
+  left: auto;
+  right: auto;
+  margin: 55px;
+  padding: 2px;
+  background-color:red;
+
+}
+
+.state form {
+  
+  padding: 30px;
+  size: 0px;
+}
+.bloodg{
+  border-style: solid;
+  display: flex;
+  position: relative;
+  top: -474px;
+  border-radius: 20px;
+  left: 25px;
+ 
+  width: 610px;
+  height: 71px;
+  margin: 28px;
+  padding: 6px;
+  background-color: red;
+  /* padding: auto;
+  size: 0px;
+  border: 2px;
+  border-color: royalblue;
+  background-color: red;
+  position: center;
+  margin: 20px;
+  padding: 20px; */
+
+}
+.bloodg form{
+  padding: 30px;
+  size: 0px;
+  text-align: center;
+  /* display: block; */
+  /* padding: 10px;
+  size: 0px;
+ border: 2px;
+ border-color: black
+ ; */
+}
+
+.btn{
+  
+  border-radius: 6px;
+position: relative;
+top:-97px;
+left: 57px;
+border: solid 2px;
+cursor: pointer;
+/* background-color:rgba(128, 128, 128, 0.517) */
+
+}
+
+
+/* .district{
+border-style: solid;
+
+display: flex;
+position: relative;
+top: 90px;
+
+border-radius: 20px;
+top:-402px;
+width: 615px;
+height: 81px;
+left: auto;
+right: auto;
+margin: 55px;
+padding: 2px;
+background-color: red
+
+} */
+
+.Search_btn{
+  color: black;
+  
+  text-decoration: none;
+  cursor: pointer;
+  
+}
+.navigationbar{
+  background-color: red;
+}
+.navigationbar li{
+  float: left;
+  list-style: none;
+  
+}
+.navigationbar li a{
+  padding: 10px 3px;
+
+}

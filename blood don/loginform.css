@@ -1,0 +1,119 @@
+body{position: relative;
+    left: 32%;
+    top: 150px;
+     font-family: sans-serif;
+    background:url(login_page_back.jpg)no-repeat;
+    background-size: cover;
+}
+
+
+/* div.main{
+width: 400px; 
+ margin: 1000px auto} */
+
+h2{text-align: center;
+  padding:20px;
+  font-family:sans-serif;
+  
+}
+
+div.register{
+    position: relative;
+    left: -6%;
+  background-color: rgba(0,0,0 , .5);
+  width: 50%;
+  font-size:18px;
+  border-radius: 10PX;
+  border: 1PX solid rgba(255, 255,255, 0.3);
+  box-shadow: 2px 2px 15px
+  rgba(0, 0, 0, 0.3);
+  color: #fff;
+  
+}
+
+
+form.register{
+    position: relative;
+    left: 5%;
+    margin: 20px;
+    padding: 2px;
+}
+label{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+
+input#name{
+    width: 300px;
+    border: 1px solid #ddd;
+border-radius: 3px;
+outline: 0;
+padding: 7px;
+background-color: #fff;
+box-shadow: inset 1px 1px 5px 
+rgba(0, 0, 0, 0.3);
+
+}
+.submitform{
+    cursor: pointer;
+}
+/* input#submit{
+    cursor: pointer;
+} */
+/*
+.create{
+    border: 20px solid red;
+
+}
+.create form{
+ 
+    border: 2px solid black;
+
+}
+.create form h2{
+    float: left;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0 ;
+    border-bottom: 1px solid #b22121;
+} */
+
+/* .create 
+#namet{
+    position: relative;
+    left: 20%;
+}
+#statet{position: relative;
+    left: 20%
+    }
+#phonenot{position: relative;
+    left: 20%
+    }
+#bloodgroupt{position: relative;
+    left: 20%
+    } */
+/* 
+/* .create{
+    border: 2px solid=black;
+    margin: 2px ;
+    position: absolute;
+    top:2px ;
+    left: 220px;
+width: 0px;
+} */
+
+/* .create form{
+    position: relative;
+    left: 90%;
+} */
+/* #namet{
+    position: relative;
+    left: 50%;
+} */ 
+
+/* *{
+    margin: ;
+    padding: ;
+} */
+
